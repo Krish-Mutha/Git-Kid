@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Git Kid</string>
+    <string name="git_command_explorer"><![CDATA[<font color="#000000"><b>Git </b></font><font color="#08BFA9"><b>Kid </b></font>]]></string>
+    <string name="git_command_explorer2"><font color="#000000"><b> A Git Command-Explorer</b></font></string>
+    <string name="text_find_right_command">Find the right commands you need without digging through the web</string>
+
+</resources>
